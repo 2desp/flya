@@ -6,6 +6,9 @@ if game.gameId == 10111742174 then -- Defend ur base with anime
 end 
 
 
+if game.gameId == 10226701629 then -- Clean The Library
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/flya/refs/heads/main/Clean%20The%20Library-obfuscated.lua"))()
+end 
 
 if game.gameId == 10148434559 then -- Lucky Block Rush
   loadstring(game:HttpGet("https://raw.githubusercontent.com/2desp/flya/refs/heads/main/Lucky%20Block%20Rush-obfuscated.lua"))()
